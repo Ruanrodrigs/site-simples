@@ -1,4 +1,9 @@
 Website simples
+![image](https://github.com/Ruanrodrigs/site-simples/assets/113262643/bec2a809-5229-4554-9382-c55247aec4c4)
+![image](https://github.com/Ruanrodrigs/site-simples/assets/113262643/87828e51-f657-42c2-8fb9-f27dcea1bfcb)
+
+
+
 
 Este é um projeto de website simples com funcionalidade de alternância de tema entre "claro" e "escuro".
 
