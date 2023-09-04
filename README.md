@@ -1,4 +1,5 @@
 Website simples
+
 Este é um projeto de website simples com funcionalidade de alternância de tema entre "claro" e "escuro".
 
 Conteúdo
